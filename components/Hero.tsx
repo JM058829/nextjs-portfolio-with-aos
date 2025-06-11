@@ -25,7 +25,7 @@ const Hero = () => {
             <h2 className="text-yellow-500">Musico & Cantautor</h2>
             <br />
             <div className="flex justify-end">
-              <button className="btn border-yellow-700 bg-yellow-600 text-gray-200 hover:bg-yellow-500">
+              <button onclick="app/#contact" className="btn border-yellow-700 bg-yellow-600 text-gray-200 hover:bg-yellow-500">
                 Hire Me
               </button>
             </div>
