@@ -8,7 +8,7 @@ const Contact = () => {
           Hire Me
         </h2>
         <h4 className="subtitle" data-aos="fade-down">
-          EN CALIENTE!
+          EN CALIENTE!!
         </h4>
         <br />
         <div className="flex items-center flex-col space-y-4 lg:flex-row">
