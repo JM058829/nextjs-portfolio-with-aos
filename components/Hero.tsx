@@ -22,7 +22,7 @@ const Hero = () => {
         </div>
         <div className="flex w-10/12 flex-col-reverse items-center justify-center md:flex-row md:items-end">
           <div className="px-6 pb-16 pt-5" data-aos="fade-down">
-            <h2 className="text-yellow-500">Full Stack Developer</h2>
+            <h2 className="text-yellow-500">Musico & Cantautor</h2>
             <br />
             <div className="flex justify-end">
               <button className="btn border-yellow-700 bg-yellow-600 text-gray-200 hover:bg-yellow-500">
@@ -35,8 +35,8 @@ const Hero = () => {
                 data-aos="fade-down"
                 data-aos-delay="300"
               >
-                <h3 className="text-gray-100">25+</h3>
-                <p className="text-gray-200">Years of experience</p>
+                <h3 className="text-gray-100"15+</h3>
+                <p className="text-gray-200">Años de experiencia</p>
               </div>
               <div
                 className="flex w-80 items-center gap-5"
