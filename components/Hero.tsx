@@ -15,14 +15,14 @@ const Hero = () => {
         >
           <div className="flex h-full flex-col justify-center">
             <h1 className="absolute right-[-50%] top-[50%] rotate-90 space-x-4 md:right-0">
-              <span className="text-white">Tony</span>
-              <span className="text-gray-950">Xhepa</span>
+              <span className="text-white">EL DE</span>
+              <span className="text-gray-950">LA SANTA</span>
             </h1>
           </div>
         </div>
         <div className="flex w-10/12 flex-col-reverse items-center justify-center md:flex-row md:items-end">
           <div className="px-6 pb-16 pt-5" data-aos="fade-down">
-            <h2 className="text-yellow-500">Full Stack Developer</h2>
+            <h2 className="text-yellow-500">Musician & Developer</h2>
             <br />
             <div className="flex justify-end">
               <button className="btn border-yellow-700 bg-yellow-600 text-gray-200 hover:bg-yellow-500">
