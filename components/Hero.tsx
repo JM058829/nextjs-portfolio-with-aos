@@ -15,7 +15,7 @@ const Hero = () => {
         >
           <div className="flex h-full flex-col justify-center">
             <h1 className="absolute right-[-50%] top-[50%] rotate-90 space-x-4 md:right-0">
-              <span className="text-white">EL COMPA</span>
+              <span className="text-white">COMPA</span>
               <span className="text-gray-950">CHUY</span>
             </h1>
           </div>
