@@ -8,7 +8,7 @@ const Contact = () => {
           Hire Me
         </h2>
         <h4 className="subtitle" data-aos="fade-down">
-          FOR YOUR PROJECTS
+          EN CALIENTE!
         </h4>
         <br />
         <div className="flex items-center flex-col space-y-4 lg:flex-row">
@@ -37,14 +37,14 @@ const Contact = () => {
                   id="contact-details"
                   className="space-y-2 text-yellow-600 font-medium leading-loose"
                 >
-                  Bonnie Green <br />
-                  name@flowbite.com <br />+ 12 345 67890
+                  El De La Santa <br />
+                  eldelasanta@gmail.com <br />+ 12 345 67890
                 </div>
               </address>
             </div>
 
             <p className="leading-7 text-gray-300">
-              In publishing and graphic design, Lorem ipsum is a placeholder
+              In publishing and graphic design, la mera verga. Lorem ipsum is a placeholder
               text commonly used to demonstrate the visual form of a document
               elying on mean
             </p>
